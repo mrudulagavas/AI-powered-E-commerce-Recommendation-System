@@ -17,12 +17,12 @@ are not limited to the dataset predefined categories and brands, users can input
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/ecommerce-product-recommendation.git
+git clone https://github.com/mrudulagavas/AI-powered-E-commerce-Recommendation-System.git
 ```
 
 Navigate to the project directory:
 ```bash
-cd ecommerce-product-recommendation
+cd AI-powered-E-commerce-Recommendation-System
 ```
 
 Install the required dependencies:
@@ -63,7 +63,7 @@ To obtain the vectorstore/index.faiss file just select product recommendation an
 ## Project Structure
 
 ```
-ecommerce-product-recommendation/
+AI-powered-E-commerce-Recommendation-System/
 ├── app.py
 ├── data_processing.py
 ├── recommendation_utils.py
