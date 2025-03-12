@@ -6,7 +6,7 @@ def main():
     """
     Main function to run the Streamlit app.
     """
-    st.title("E-commerce Product Recommendation")
+    st.title("AI-powered-E-commerce-Recommendation-System")
 
     dataset_path = 'flipkart_com-ecommerce_sample.csv'
     df = load_data(dataset_path)
